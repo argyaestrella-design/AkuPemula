@@ -1,0 +1,2 @@
+# AkuPemula
+tugas praktikum
